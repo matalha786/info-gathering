@@ -18,7 +18,7 @@ import nmap
 import json
 import logging
 import argparse
-from lxml import EtreeTransform
+import lxml
 
 
 
